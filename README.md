@@ -1,8 +1,8 @@
 # Software Developer
 
 ### Education
--SES
--CSE
+- SES
+- CSE
 
 ### Work Experience
 Software Developer at neokred
